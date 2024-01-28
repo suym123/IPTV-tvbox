@@ -54,6 +54,7 @@ CGTN 法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN 俄语频道,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
+
 测试,#genre#
 CCTV01[768*576],http://120.224.23.34:9901/tsfile/live/0001_1.m3u8
 CCTV02[768*576],http://120.224.23.34:9901/tsfile/live/0002_1.m3u8
@@ -70,8 +71,6 @@ CCTV10[768*576],http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
 CCTV13[1920*1080],http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
 CCTV14[1920*1080],http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
 CCTV15[785*576],http://120.224.23.34:9901/tsfile/live/0015_1.m3u8
-咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
-咪咕体育2,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 
 TVB剧场,#genre#
 TVB-1【封神榜2001】,http://8.137.57.240:81/hy.php?url=23749096
