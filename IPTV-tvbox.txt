@@ -1,4 +1,4 @@
-央视高清,#genre#
+电视节目,#genre#
 CCTV1 综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2 财经,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -24,12 +24,9 @@ CCTV17 农业农村,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-
-地方频道,#genre#
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
@@ -56,5 +53,49 @@ CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN 法语频道,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN 俄语频道,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
-CGTN 西班牙语频道,http://livees.cgtn.com/500e/prog_index.m3u8;http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
+测试,#genre#
+CCTV01[768*576],http://120.224.23.34:9901/tsfile/live/0001_1.m3u8
+CCTV02[768*576],http://120.224.23.34:9901/tsfile/live/0002_1.m3u8
+CCTV03[1920*1080],http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
+CCTV03[785*576],http://120.224.23.34:9901/tsfile/live/0003_1.m3u8
+CCTV04[1920*1080],http://120.224.23.34:9901/tsfile/live/0004_1.m3u8
+CCTV04[768*576],http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
+CCTV05[785*576],http://120.224.23.34:9901/tsfile/live/0005_1.m3u8
+CCTV06[1920*1080],http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
+CCTV07[768*576],http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
+CCTV08[768*576],http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
+CCTV09[768*576],http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
+CCTV10[768*576],http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
+CCTV13[1920*1080],http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
+CCTV14[1920*1080],http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
+CCTV15[785*576],http://120.224.23.34:9901/tsfile/live/0015_1.m3u8
+咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
+咪咕体育2,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+
+TVB剧场,#genre#
+TVB-1【封神榜2001】,http://8.137.57.240:81/hy.php?url=23749096
+TVB-2【西游记二1998】,http://8.137.57.240:81/hy.php?url=23735126
+TVB-3【楚汉骄雄2004】,http://8.137.57.240:81/hy.php?url=23740156
+TVB-4【西游记1996】,http://8.137.57.240:81/hy.php?url=23728660
+TVB-5【鹿鼎记1998】,http://8.137.57.240:81/hy.php?url=23865080
+TVB-6【天龙八部1997】,http://8.137.57.240:81/hy.php?url=23903123
+TVB-7【刑事侦缉档案】,http://8.137.57.240:81/hy.php?url=23734169
+TVB-8【法证先锋】,http://8.137.57.240:81/hy.php?url=23863804
+TVB-9【寻秦记2001】,http://8.137.57.240:81/hy.php?url=23864973
+TVB-10【洗冤录】,http://8.137.57.240:81/hy.php?url=23903130
+TVB-11【笑傲江湖1996】,http://8.137.57.240:81/hy.php?url=23865142
+TVB-12【陀枪师姐】,http://8.137.57.240:81/hy.php?url=23860039
+TVB-13【神雕侠侣1995】,http://8.137.57.240:81/hy.php?url=23865171
+TVB-14【倚天屠龙记2001】,http://8.137.57.240:81/hy.php?url=23734246
+TVB-15【使徒行者】,http://8.137.57.240:81/hy.php?url=23734256
+TVB-16【鉴证实录】,http://8.137.57.240:81/hy.php?url=23903183
+TVB-17【扫黄先锋1998】,http://8.137.57.240:81/hy.php?url=23903196
+TVB-18【大唐双龙传2004】,http://8.137.57.240:81/hy.php?url=23728674
+TVB-19【金枝欲孽2004】,http://8.137.57.240:81/hy.php?url=23865036
+TVB-20【创世纪1999】,http://8.137.57.240:81/hy.php?url=23749083
+TVB-21【笑看风云1994】,http://8.137.57.240:81/hy.php?url=23865058
+TVB-22【大时代1992】,http://8.137.57.240:81/hy.php?url=23865161
+TVB-23【妙手仁心】,http://8.137.57.240:81/hy.php?url=23829543
+TVB-24【射雕英雄传之九阴真经1993】,http://8.137.57.240:81/hy.php?url=23824164
+TVB-25【鹿鼎记1984】,http://8.137.57.240:81/hy.php?url=23734183
