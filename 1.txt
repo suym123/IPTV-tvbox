@@ -8,21 +8,7 @@ CGTN 阿拉伯语频道,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 测试,#genre#
-CCTV01[768*576],http://120.224.23.34:9901/tsfile/live/0001_1.m3u8
-CCTV02[768*576],http://120.224.23.34:9901/tsfile/live/0002_1.m3u8
-CCTV03[1920*1080],http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
-CCTV03[785*576],http://120.224.23.34:9901/tsfile/live/0003_1.m3u8
-CCTV04[1920*1080],http://120.224.23.34:9901/tsfile/live/0004_1.m3u8
-CCTV04[768*576],http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
-CCTV05[785*576],http://120.224.23.34:9901/tsfile/live/0005_1.m3u8
-CCTV06[1920*1080],http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
-CCTV07[768*576],http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
-CCTV08[768*576],http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
-CCTV09[768*576],http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
-CCTV10[768*576],http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
-CCTV13[1920*1080],http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
-CCTV14[1920*1080],http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
-CCTV15[785*576],http://120.224.23.34:9901/tsfile/live/0015_1.m3u8
+
 
 TVB剧场,#genre#
 TVB-1【封神榜2001】,http://8.137.57.240:81/hy.php?url=23749096
